@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Artcell",
+      "picture": "https://i.ibb.co/NYHWmHt/artchel.jpg",
+      "price": 1800,
+      "description": "Artcell is the number one heavy metal band in Bangladesh. They begin their journey in 1990. Ershad Zaman is the leader of this band. Artcell is also favorite in Kolkata. Oniket Prantor is the most famous song for every metalhead listener. Its length is 16 minutes and 20 seconds.",
+      "brand_members": "Ershad Zaman, Lead guitar and vocals (1999–present), George Lincoln D’Costa, Vocal and guitar (1999–present), Saef Al Nazi Cézanne – Bass, backup vocals (1999–present), Kazi Sajjadul Asheqeen Shaju – Drums (1999–present)",
+      "albums": "Onno Shomoy (2002), Oniket Prantor (2006), Blaze after midnight (2019), Onnosomoy (2019)"
+    },
+    {
+      "id": 2,
+      "title": "Warfaze",
+      "picture": "https://i.ibb.co/8jYBCFg/warfaze.jpg",
+      "price": 1600,
+      "description": "Warfaze is the 2nd position in the heavy metal band of Bangladesh. They started their journey in 1984. In 1991 they started to cover Bangla song. Before that, they generated an English song. Ibrahim Ahmed Kamal is the founder of Warfaze and Sheikh Monirul Alom Tipu is the leader. Kamal is number 1 guitarist of BD. Their 1st album is Warfaze. They have released 8 album already. Boshy achi eka, Oshamajik, Jotodurey, Purnota, etc. are the most Favourite songs by Warfaze.",
+      "brand_members": "Ibrahim Ahmed Kamal – Guitar (1984-2003,2007–Present), Sheikh Monirul Alam Tipu – Drums and percussion (1986–Present), Shams Mansoor Ghani – keyboards (1999–Present), Naim Haque Roger – Bass (2003–Present)",
+      "albums": "Warfaze (1991), Oshamajik (1998), Aalo (2001), Shotto (2012) ETC."
+    },
+    {
+      "id": 3,
+      "title": "Aurthohin",
+      "picture": "https://i.ibb.co/vDhh6kG/aurthohin.jpg",
+      "price": 1500,
+      "description": "Aurthohin is in the 3rd position of Bangladeshi Band. In 1997 they started their journey. There are 3 members in Aurthohin. Bass-Baba is the number 1 bassist in Bangladesh and number 5 bassist in the world. Raef Al Hasan Rafa was the member of this band. After playing  12 years he left Aurtohin in 2016. Aurthohin released 9 albums. Chaite Paro (1-2-3) Nikrishto(1-2-3) etc.  are the famous songs of Aurthohin.",
+      "brand_members": "Sumon a.k.a. BassBaba – Vocals, Bass & Guitar (since 1998), Shishir Ahmed– Lead guitar & Keyboards (since 2003), Mark Don – Drums & Backing vocals (since 2015)",
+      "albums": "Trimatrik  (1999–2000), Notun Diner Michile (2002), Dhrubok (2003), Aushomapto 1 (2008), Cancer er Nishikabyo (2016-present) ETC."
+    },
+    {
+      "id": 4,
+      "title": "LRB",
+      "picture": "https://i.ibb.co/wwVwDHR/LRB.jpg",
+      "price": 1200,
+      "description": "LRB (Love Runs Blind); LRB is in the 4th position in BD. Ayub Bacchu is the founder of the band and leader too. He is the number 3 guitarist of BD. The band performs Hard rock, Alternative Rock, Soft rock, etc. It started the journey on 05 April 1991. LRB released their first double album in 1992. There are 11 albums of LRB.",
+      "brand_members": "Late Ayub Bachchu (died 2018) — front-man, bandleader, lead guitars, lead vocals (1991–2018), Saidul Hasan Swapan — front-man, bass guitar (1991–present), bandleader (since the passing of AB), Mizan Rahman Mizan – vocals (2019–present), Ferdous Noor Pushpo – guitars (2019-present)",
+      "albums": "L.R.B 1 and 2 (1992) double disc, Shukh (1993), Shwapno (1996), Achena Jibon (2003), Sparsho (2008) ETC."
+    },
+    {
+      "id": 5,
+      "title": "Shironamhin",
+      "picture": "https://i.ibb.co/fYsFnGz/shironamhin.jpg",
+      "price": 1100,
+      "description": "Shironamhin: Shironamhin started their journey in 1996. There are five albums of Shironamhin.In their songs, a wide variety of influences, including classical and folk traditions of Bengali music and rock music can be found. Ziaur Rahman Zia is the leader of this band. Hashimukh, Abar Hashimukh, Bangladesh are the most popular songs of the band.",
+      "brand_members": "Tanzir Tuhin — Vocal, songwriter, Ziaur Rahman Zia — songwriter, Bass, MIDI sequencer, Rashel Kabir – Keyboardist, Kazi Ahmad Shafin — Drum, Diat Khan — Guitars, Banjo.",
+      "albums": "Jahajee (2004), Ichchhe Ghuri (2006), Bondho Janala (2009), Shironamhin Rabindranath (2010), Shironamhin Shironamhin (2013), ETC."
+    },
+    {
+      "id": 6,
+      "title": "Nogor Baul",
+      "picture": "https://i.ibb.co/SB5JZdw/nogor.jpg",
+      "price": 1000,
+      "description": "Nogor Baul: Nogor Baul means James. His full name is Faruque Mahfuz Anam. The band has started its journey with the album Station Road.James is also known as Guru. James performed several Hindi songs for Bollywood. So he is very famous in India too. His favorite songs are Bangladesh, Taray Taray, Didi Moni, etc. Songs of this band still alive in the heart of all sector of people for their so meaningful lyrics.",
+      "brand_members": "James – Lead Guitar, Vocal, Funty – Drums, Pablo – Keyboards, Vocal, Swapan – Bass Guitar.",
+      "albums": "Station Road (1986), Jail Theke Bolchi (1989), Nagar Baul (1995), Dustu Cheler Dol (2001), ETC."
+    }
+  ]
+  

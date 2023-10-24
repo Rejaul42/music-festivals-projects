@@ -1,0 +1,15 @@
+.banner{
+    background-image:linear-gradient(0deg, rgba(26, 25, 25, 0.7), rgba(26, 25, 25, 0.7)), url('https://i.ibb.co/jf73kVS/top-view-beautiful-music-concept-23-2148605816.jpg');
+    background-size: cover;
+  opacity: 0.8; /* Adjust the opacity level as needed */
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  content: ""; 
+}
+from{
+    color: #000;
+}
